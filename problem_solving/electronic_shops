@@ -25,3 +25,4 @@ if __name__ == '__main__':
     drives = list(map(int, input().rstrip().split()))
 
     getMoneySpent(keyboards, drives, b)
+ 
