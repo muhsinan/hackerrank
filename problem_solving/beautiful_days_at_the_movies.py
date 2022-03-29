@@ -18,3 +18,4 @@ if __name__ == '__main__':
     result = beautifulDays(i, j, k)
     
     print(result) 
+ 
